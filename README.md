@@ -76,7 +76,7 @@ A Fast Time Series InSAR Processing Software
 
 时序处理运行结束后，生成timeseries.shp文件，文件位于影像数据的文件夹下。可导入QGIS或ArcGIS中以查看。
 
-![未命名_副本.jpg](readme_pic/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D_%25E5%2589%25AF%25E6%259C%25AC.jpg)
+![未命名_副本.jpg](readme_pic/immm.jpg)
 
 ![Untitled](readme_pic/Untitled%2010.png)
 
