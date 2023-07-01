@@ -1,5 +1,5 @@
 # ESIS
-A Fast Time Series insar Processing Software
+A Fast Time Series InSAR Processing Software
 # ESIS使用说明（测试版）
 
 ## 1 简介
