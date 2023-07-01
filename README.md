@@ -28,7 +28,7 @@ A Fast Time Series InSAR Processing Software
 
 运行安装包文件，一直单击界面右下角的“下一步”即可。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a29795a-d6e3-4b09-b0fc-320333d9d2c0/Untitled.png)
+![Untitled](readme_pic/Untitled.png)
 
 ⚠提示：若软件运行出错，请尝试以”管理员“方式运行。
 
@@ -36,55 +36,55 @@ A Fast Time Series InSAR Processing Software
 
 软件主界面如下图所示，主界面为影像选择界面。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3192cba-a154-4083-8fec-0f6957e469d7/Untitled.png)
+![Untitled](readme_pic/Untitled%201.png)
 
 首先输入研究区域中心位置的经纬度，单击搜索以获取研究区域的影像信息。搜索结束后，会显示当前位置的全部影像数据。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf0f378-bce1-43a6-9876-76135ba11885/Untitled.png)
+![Untitled](readme_pic/Untitled%202.png)
 
 将右侧的“全部影像”切换为“分组影像”即可查询当前位置的影像序列。可选择组别以查看不同的影像序列。其中地图上绿色区域为影像序列的公共区域。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f728575-86c9-45d5-b6d3-9dd2cdc76180/Untitled.png)
+![Untitled](readme_pic/Untitled%203.png)
 
 单击”导入至→②像对筛选“以进行像对筛选工作。此界面可进行时空基线阈值的设置、像对的添加与剔除等操作。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dc80be8-cde2-450d-bb5b-a30fa85ce0fc/Untitled.png)
+![Untitled](readme_pic/Untitled%204.png)
 
 单击”导入至→③干涉解缠“以进行干涉解缠处理。此步骤需登录账号。可在界面左侧的”功能选项“中的”账户管理“中登录。
 
 账号每月有1000个像对额度，用户可从earth data免费注册（本软件自带的账号为测试账号，因使用人数较多，余额可能不足）。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74ec8a48-dd0e-4eda-a63c-60af577b8416/Untitled.png)
+![Untitled](readme_pic/Untitled%205.png)
 
 单击上传任务按钮以上传当前选择的干涉像对。上传完成后，软件提示保存”项目信息“，此文件用于查询当前任务进度与下载数据，即单击”查看干涉解缠项目“并导入此”项目信息“文件以查询和下载。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd565015-9188-4fa3-8009-902d39d75d51/Untitled.png)
+![Untitled](readme_pic/Untitled%206.png)
 
 下载完成干涉解缠数据后，将其解压至一个空文件夹内。并通过影像裁剪功能选择此文件夹的路径。
 
 手动输入要裁剪的研究区域的经纬度范围，单击开始裁剪即可。裁剪完成后，即可进入④时序处理。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/482cccfd-a935-49fd-8b2f-5f98a18268f5/Untitled.png)
+![Untitled](readme_pic/Untitled%207.png)
 
 时序处理功能仅提供默认参数运行，后续更新参数设置选项。选择影像数据文件夹后，单击”运行“按钮即可。（若多次进行时序处理，请将上次时序处理生成的文件删除后再运行。）
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49d35d31-269e-4b71-a552-e9136b107bf3/Untitled.png)
+![Untitled](readme_pic/Untitled%208.png)
 
 选择右侧文件列表中的文件可快速预览运行结果。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4551b83-e331-4d81-8f8e-dc085bc66eee/Untitled.png)
+![Untitled](readme_pic/Untitled%209.png)
 
 时序处理运行结束后，生成timeseries.shp文件，文件位于影像数据的文件夹下。可导入QGIS或ArcGIS中以查看。
 
-![未命名_副本.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/244ae938-142f-4107-ac2a-9bc51f52927d/%E6%9C%AA%E5%91%BD%E5%90%8D_%E5%89%AF%E6%9C%AC.jpg)
+![未命名_副本.jpg](readme_pic/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D_%25E5%2589%25AF%25E6%259C%25AC.jpg)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54a0b378-61e5-4698-89d0-37777ff7e3a9/Untitled.png)
+![Untitled](readme_pic/Untitled%2010.png)
 
 ## 5 说明
 
 本软件为测试版，使用过程中可能会出现一些未知错误，若用户发现一些可重现的错误，可提供截图及详细描述等信息，发送至邮箱2336164866@qq.com中，或通过下方群聊进行反馈，作者会尽快更正错误。
 
-![qqq.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62ca1577-f658-4445-84fe-eeef13611a7d/qqq.png)
+![qqq.png](readme_pic/qqq.png)
 
 ## 6 历史版本
 
