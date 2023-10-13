@@ -32,7 +32,6 @@ GitHub
 
 [百度网盘 请输入提取码](https://pan.baidu.com/s/1XkWM9IGBHy9AFbuSUfDUYA?pwd=pd3s)
 
-![Untitled](pic/Untitled.png)
 
 ## 3 安装
 
