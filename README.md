@@ -28,10 +28,6 @@ GitHub
 
 [Releases · ZGHHGZ/ESIS](https://github.com/ZGHHGZ/ESIS/releases)
 
-百度网盘
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1XkWM9IGBHy9AFbuSUfDUYA?pwd=pd3s)
-
 
 ## 3 安装
 
@@ -121,84 +117,4 @@ C-SBAS模块用于分类优化基线连接方式，以尽量保证高相干区�
 
 ![qqq.png](pic/qqq.png)
 
-## 6 历史版本
 
-（7）2023.10.05：ESIS-测试版V007
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1XkWM9IGBHy9AFbuSUfDUYA?pwd=pd3s)
-
-①新增A、B卫星选项，支持选择特定卫星搜索。
-
-②新增时序结果可视化，可单击查询时序形变曲线和数据。
-
-（6）2023.09.23：ESIS-测试版V006
-
-[](https://pan.baidu.com/s/1b_fDwOwNAyPC2jTuKm1yZQ?pwd=0e4y)
-
-①改进多次运行“时序处理”时，需提前删除过程文件的流程。新版本无需删除过程文件，即可直接重复运行时序处理步骤。
-
-②添加形变速率结果的可视化功能，时序处理结束后，通过单击“项目成果”选项卡即可查看。
-
-③改进裁剪效率，不再裁剪“水体掩膜”数据。
-
-④新增C-SBAS模块，支持snaphu相位解缠，引入地物分类的相干性掩膜，大梯度形变区域的基线连接优化功能。
-
-（5）2023.08.14：ESIS-测试版V005
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1JaAaOeniOhuja8JU5nlSzQ?pwd=du2f)
-
-①修复导出的时序形变shp文件中的点位整体向北向西偏移0.5个像素的错误。
-
----
-
-（4）2023.08.07：ESIS-测试版V004
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1sF1WLAFL_pH_7qn81vpMBA?pwd=vq0b)
-
-①修复获取干涉解缠数据链接时，未出错仍会出现错误提醒的情况。
-
-②新增干涉解缠数据处理选项，可选仅用于MintPy处理的文件（文件大小最小）。
-
-③新增MintPy在SBAS处理时，参考点的手动选择选项。
-
----
-
-（3）2023.06.21：ESIS-测试版V003
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1INE1vyQdIaZN0EWozX5oqw?pwd=972m)
-
-①修复因获取的时空基线参数为空而造成影像漏选的情况。
-
----
-
-（2）2023.06.20：ESIS-测试版V002
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1uKCoKKUpySraTGOMvuUnag?pwd=axcs)
-
-①修复”功能选项“当中的精密轨道数据下载出错的现象。
-
-②支持无水体掩膜的干涉解缠图进行SBAS时序处理。
-
----
-
-（1）2023.05.20：ESIS-测试版V001
-
-[百度网盘 请输入提取码](https://pan.baidu.com/s/1IGFbDW7aLhXCV0WoecJx9Q?pwd=luqi)
-
-①修复因干涉解缠内部分任务失败而无法下载的错误。
-
-②修复多次进行时间筛选后，导出或上传的像对参数与筛选的像对不一致的错误。
-
-③优化账号登录界面，固定窗口大小。
-
-④更改安装包默认安装路径，无需管理员权限即可运行软件。
-
----
-
-（0）2023.05.04：ESIS-测试版
-
-[](https://pan.baidu.com/s/1PWQ_hQqSnKverZLVwRKIzg?pwd=ktce)
-
-①此版本为首发版本。
-
-![satellite_overview.jpg](pic/satellite_overview.jpg)
