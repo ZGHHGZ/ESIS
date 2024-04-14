@@ -1,5 +1,5 @@
 # ESIS
-A Fast Time Series InSAR Processing Software
+A Fast Time-Series InSAR Processing Software
 
 https://southern-saxophone-c79.notion.site/ESIS-28bb22a6db2c4043a099ae3fb3959685?pvs=4                     
 ![image](https://github.com/ZGHHGZ/ESIS/assets/88225620/5e3e38ef-d2f7-4b98-8b97-0e1784666466)
