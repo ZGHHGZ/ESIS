@@ -12,7 +12,7 @@ https://southern-saxophone-c79.notion.site/ESIS-28bb22a6db2c4043a099ae3fb3959685
 
 本软件除可用于SBAS-InSAR数据处理的全流程外，还提供SLC影像数据下载、精密轨道数据下载、地形数据下载、地物分类数据下载等服务。
 
-本软件基于Windows11开发，建议在Windndows11操作系统下使用此软件。计算机的屏幕分辨率不得低于1366×768，屏幕缩放比例设置为100%。（本软件同时兼容Windows7、Windows10。）
+本软件基于Windows11开发，建议在Windows11操作系统下使用此软件。计算机的屏幕分辨率不得低于1366×768，屏幕缩放比例设置为100%。（本软件同时兼容Windows7、Windows10。）
 
 本软件所调用的InSAR开源软件包如下：
 
