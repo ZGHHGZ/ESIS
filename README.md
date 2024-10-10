@@ -8,7 +8,7 @@ https://southern-saxophone-c79.notion.site/ESIS-28bb22a6db2c4043a099ae3fb3959685
 
 ## 1 简介
 
-本软件主要用于SBAS-InSAR的数据处理，通过本软件可完成SBAS-InSAR数据处理的全流程。其中原始数据由ASF提供，干涉解缠服务由HyP3提供（基于GAMMA、ISCE），时序处理由MintPy提供。
+本软件主要用于SBAS-InSAR的数据处理，通过本软件可完成SBAS-InSAR数据处理的全流程。其中原始数据由ASF提供，干涉解缠服务由HyP3提供（基于GAMMA、ISCE），时序处理由MintPy完成。
 
 本软件除可用于SBAS-InSAR数据处理的全流程外，还提供SLC影像数据下载、精密轨道数据下载、地形数据下载、地物分类数据下载等服务。
 
