@@ -22,6 +22,9 @@ https://southern-saxophone-c79.notion.site/ESIS-28bb22a6db2c4043a099ae3fb3959685
 | hyp3_sdk | 干涉解缠服务 | https://github.com/ASFHyP3/hyp3-sdk |
 | MintPy | SBAS时序处理 | https://github.com/insarlab/MintPy |
 
+引用:
+[1]于志刚,张光辉,张晨晰,等.基于PySide的时序InSAR处理可视化及形变监测实验[J].测绘工程,2024,33(06):41-48.DOI:10.19349/j.cnki.issn1006-7949.2024.06.006.
+
 ⚠本软件仅可用于学习交流，不可用于商业用途。
 
 ## 2 下载
