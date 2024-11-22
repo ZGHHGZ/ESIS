@@ -90,7 +90,9 @@ GitHub
 ### C-SBAS模块
 
 C-SBAS模块用于分类优化基线连接方式，以尽量保证高相干区域的监测精度及低相干区域的监测密度。
-
+<center class="half">
+<img src="https://southern-saxophone-c79.notion.site/SBAS-InSAR-fa7d046a65ea4e138c96e89eb9d3205c?pvs=4" width=400/>
+</center>
 [分类SBAS-InSAR模块处理流程](https://southern-saxophone-c79.notion.site/SBAS-InSAR-fa7d046a65ea4e138c96e89eb9d3205c?pvs=4)
 
 ![Untitled](pic/Untitled%2013.png)
@@ -119,9 +121,6 @@ C-SBAS模块用于分类优化基线连接方式，以尽量保证高相干区�
 ## 5 说明
 
 由于作者能力有限且不同电脑系统的环境不同，本软件使用过程中可能会出现一些未知错误，若用户发现一些可重现的错误，可提供截图及详细描述等信息，发送至邮箱2336164866@qq.com中，或通过下方群聊进行反馈，作者会尽快更正错误。
-
-![qqq.png](pic/qqq.png, width=400)
-
 <center class="half">
 <img src="pic/qqq.png" width=350/>
 </center>
