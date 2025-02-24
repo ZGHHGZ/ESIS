@@ -115,7 +115,6 @@ C-SBAS模块用于分类优化基线连接方式，以尽量保证高相干区�
 
 ![image](https://github.com/ZGHHGZ/ESIS/assets/88225620/271c53d3-d192-4dec-9c69-71cb237d8e8d)
 
-![image](https://github.com/user-attachments/assets/9a6d636e-fc41-46e7-84cc-d043918dff57)
 
 
 ## 5 说明
