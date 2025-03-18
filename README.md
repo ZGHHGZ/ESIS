@@ -103,8 +103,6 @@ C-SBAS模块用于分类优化基线连接方式，以尽量保证高相干区�
 
 时序处理运行结束后，生成timeseries.shp文件，文件位于影像数据的文件夹下。可导入QGIS或ArcGIS中以查看。
 
-![未命名_副本.jpg](pic/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D_%25E5%2589%25AF%25E6%259C%25AC.jpg)
-
 ![Untitled](pic/Untitled%2015.png)
 
 ![Untitled](pic/Untitled%2016.png)
